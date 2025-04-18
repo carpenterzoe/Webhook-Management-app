@@ -20,7 +20,7 @@
 
 ## Tech Stack
 
-[![Vue 3](https://img.shields.io/badge/Vue.js-3-4FC08D?logo=vuedotjs)](https://vuejs.org/)[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript)](https://www.typescriptlang.org/)[![Vite](https://img.shields.io/badge/Vite-6-646CFF?logo=vite)](https://vitejs.dev/)[![Pinia](https://img.shields.io/badge/Pinia-3-FFD02F?logo=vue.js)](https://pinia.vuejs.org/)
+[![Vue 3](https://img.shields.io/badge/Vue.js-3-4FC08D?logo=vuedotjs)](https://vuejs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript)](https://www.typescriptlang.org/) [![Vite](https://img.shields.io/badge/Vite-6-646CFF?logo=vite)](https://vitejs.dev/) [![Pinia](https://img.shields.io/badge/Pinia-3-FFD02F?logo=vue.js)](https://pinia.vuejs.org/)
 
 - **Vue 3**: Reactive components via Composition API, optimized render performance.
 
