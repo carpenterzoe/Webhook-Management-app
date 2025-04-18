@@ -36,6 +36,9 @@
 ## Quick Start
 
    ```bash
+   git clone https://github.com/carpenterzoe/Webhook-Management-app.git
+   cd Webhook-Management-app
+
    npm install
    npm run dev
    ```
